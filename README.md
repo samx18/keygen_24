@@ -1,7 +1,7 @@
 # 24 Byte Binary Key File Generator
 
 # Description
-A perl script that will generate a 24 byte binary key file which can be used an encryption key.Oracle encryption concurrent requests require a 24 byte binary key file to be supplied. The perl script will generate on for you to use.
+A perl script that will generate a 24 byte binary key file which can be used an encryption key.Oracle encryption concurrent requests require a 24 byte binary key file to be supplied. The perl script will generate one for you to use.
 
 # Usage
 
